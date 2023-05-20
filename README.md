@@ -3,7 +3,7 @@ Collection of some Online Tools, especially for Hardware Design &amp; Computer A
 
 ### Interactive Git Tutorial
 
-[Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 
 ### Jupyter Notebook Viewer
 [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/Divsigma/Courses/blob/master/cs231n/assignment1/knn.ipynb)
